@@ -9,6 +9,7 @@ Currently, two official plugins are available:
 
 In Table Page
 Admin
+password:2366298
 0 - add
 100 - delete
 1/2/3 - change exit date checkin and checkout
